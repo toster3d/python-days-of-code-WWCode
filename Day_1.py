@@ -4,5 +4,4 @@ def swap_value(a, b):
   a,b = b, a
   print(a, b)
 
-swap_value(1, 2)
-  
+swap_value(1, 2)  #Output: 2, 1
